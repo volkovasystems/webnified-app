@@ -28,7 +28,7 @@ body {
 /* Lead */
 .lead {
   background-color: #081F35;  
-  background-image: url(img/earth-with-team.png);
+  background-image: url(/images/earth-with-team.png);
   background-repeat: no-repeat;
   background-position: 50% 200%;
   color: white;
